@@ -6,9 +6,7 @@
     "require": {
         "php": ">=5.3.2"
     },
-    "require-dev": {
-        "phpunit/phpunit": "~7.0|~6.0|~5.0|~4.8.35"
-    },
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Mlb0925\\": "src/"
