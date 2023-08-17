@@ -1,3 +1,8 @@
+# 安装方法
+```
+composer require mlb0925/zipconverter
+```
+# 使用方法
 ```
 $zip = new \Mlb0925\zipConverter();
 $zip->setRecursiveness(true); //default is false
